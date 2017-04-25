@@ -1,6 +1,6 @@
 # npmtest-gifencoder
 
-#### test coverage for  [gifencoder (v1.0.6)](https://github.com/eugeneware/gifencoder)  [![npm package](https://img.shields.io/npm/v/npmtest-gifencoder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gifencoder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gifencoder.svg)](https://travis-ci.org/npmtest/node-npmtest-gifencoder)
+#### basic test coverage for  [gifencoder (v1.0.6)](https://github.com/eugeneware/gifencoder)  [![npm package](https://img.shields.io/npm/v/npmtest-gifencoder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gifencoder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gifencoder.svg)](https://travis-ci.org/npmtest/node-npmtest-gifencoder)
 
 #### Streaming server-side animated (and non-animated) gif generation for node.js
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gifencoder/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gifencoder/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gifencoder/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gifencoder/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gifencoder/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gifencoder/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gifencoder/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gifencoder/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gifencoder/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gifencoder/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gifencoder/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gifencoder/build/coverage.html/index.html)
 
@@ -95,7 +95,8 @@
     "scripts": {
         "test": "grunt ci"
     },
-    "version": "1.0.6"
+    "version": "1.0.6",
+    "bin": {}
 }
 ```
 

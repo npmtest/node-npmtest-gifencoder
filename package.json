@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [gifencoder (v1.0.6)](https://github.com/eugeneware/gifencoder)  [![npm package](https://img.shields.io/npm/v/npmtest-gifencoder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gifencoder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gifencoder.svg)](https://travis-ci.org/npmtest/node-npmtest-gifencoder)",
+    "description": "#### basic test coverage for  [gifencoder (v1.0.6)](https://github.com/eugeneware/gifencoder)  [![npm package](https://img.shields.io/npm/v/npmtest-gifencoder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gifencoder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gifencoder.svg)](https://travis-ci.org/npmtest/node-npmtest-gifencoder)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "gifencoder": "*",
